@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-
 export default function Form() {
   const [joke, setJoke] = useState(null);
   const [jokeWithId, setJokeWithId] = useState(null);

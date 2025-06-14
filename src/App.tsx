@@ -4,6 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Banner from "./Banner";
 import Form from "./Form";
+import RandomJoke from "./RandomJoke";
 function App() {
   const [count, setCount] = useState(0);
 
@@ -27,6 +28,7 @@ function App() {
         </p>
         <Banner text="This is a banner" />
         <Form />
+        <RandomJoke />
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
