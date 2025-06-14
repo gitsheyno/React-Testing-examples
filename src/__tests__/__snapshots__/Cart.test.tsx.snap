@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`snapshot test for TextCart 1`] = `
+<DocumentFragment>
+  <div>
+    TextCart
+  </div>
+</DocumentFragment>
+`;
